@@ -14,7 +14,7 @@ body{
 }
 .header .img{
     position: absolute;
-    right: 280%;
+    right: 270%;
 }
 .header .web{
     position: absolute;
@@ -60,7 +60,8 @@ body{
    
   }
 .line{
-    border-bottom: 1px solid rgb(223, 212, 212);
+    border-bottom: 1px solid #cfc3c3;
     height:8vh;
     width: 96em;
+    
   }
